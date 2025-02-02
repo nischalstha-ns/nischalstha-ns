@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Bachlor in information techhology
 - 💞️ I’m looking to collaborate on other company
 - 📫 How to reach me through social media and my website "nischalshrestha6.com.np"
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: NISCHAL
+- ⚡ Fun fact: Respecting other like friend to all and some time make fun of it
 
 <!---
 nischalstha-ns/nischalstha-ns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
