@@ -19,75 +19,86 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nischal-shrestha-ns/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   <a href="https://www.facebook.com/nishal.shrestha.3388" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="50" />
   </a>
   <a href="https://www.instagram.com/___not_dead___/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/nischal-shrestha-ns/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nischal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/nishal.shrestha.3388" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
+  <a href="https://www.instagram.com/___not_dead___/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@not__dead-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+</p>---
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<!-- Frontend -->
+<h4 align="center">🎨 Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" />
 </p>
 
-*(You can add more icons like AWS, Java, MySQL, etc. if you want — just let me know)*
+<!-- Backend -->
+<h4 align="center">⚙️ Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django" />
+</p>
 
----
+<!-- Mobile -->
+<h4 align="center">📱 Mobile</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
+</p>
+
+<!-- Database -->
+<h4 align="center">🗄️ Database</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+<!-- Tools -->
+<h4 align="center">🧰 Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,firebase" />
+</p>
+
+<!-- Programming -->
+<h4 align="center">💻 Programming</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,rust" />
+</p>
 
 ### 📊 GitHub Stats
 
+<h2 align="center">📊 NS GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischal-shrestha&show_icons=true&theme=radical&hide_border=true" alt="Nischal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nischal-shrestha&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischal-shrestha&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischal-shrestha&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal-shrestha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal-shrestha&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <b>⚡ Powered by NS • Built with consistency & code</b>
 </p>
