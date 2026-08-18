@@ -10,6 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **[NischalFancyStore](https://github.com/nischalstha-ns/e-commerce)** — an e-commerce platform
+-**[NischalFancyStore(WebSite)](https://nischalfancystore.com.np/)**
 - 🌱 I’m currently learning **React.js** and **Next.js**
 - 👯 I’m looking to collaborate on **e-commerce** and **modern web** projects
 - 👨‍💻 All of my projects are available at [nischalshrestha6.com.np](https://nischalshrestha6.com.np/)
